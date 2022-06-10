@@ -167,4 +167,4 @@ async def meme(ctx):
 
 
 
-bot.run('OTg0NDc4Nzk1Mjk5OTU4ODE0.GQdwPn.P9RFo5oBkEHzkI8hx0sxzrVR70-b7XzAH08E0c')
+bot.run('the token')
